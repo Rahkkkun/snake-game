@@ -1,7 +1,6 @@
 # 🐍 Snake Game
 
 A simple yet colorful **Snake Game** implemented in **Java** using **Swing and AWT**. Control the snake, eat the apples, and grow your score—but beware of collisions! 🎮
-
 ---
 ## 🚀 Features
 
